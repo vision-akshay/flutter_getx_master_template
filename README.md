@@ -1,4 +1,4 @@
-# cricket_app
+# Getx demo
 
 A new Flutter project.
 
